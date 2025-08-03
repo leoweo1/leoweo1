@@ -24,7 +24,7 @@ Student @ Howard University. Currently designing and building an FX Arbitrage Sy
 ## Hi there 👋
 
 **Student @ Howard University.** Currently designing and building an **FX Arbitrage System.**  
-**Advancing AI use for Africans (speech recognition)**
+**Advancing AI use for Africans Speech Recognition
 
 ## 💡 Today's Quote:
 *"First, solve the problem. Then, write the code." — John Johnson* *(Updates daily!)*  
